@@ -102,6 +102,11 @@ For this assignment, there is no template you have to follow. You are free to us
 At the beginning of the game, the user should be asked if the wants to start the game normally or if he prefers the debug mode. For this mode, the suitcases are not shuffled but the values go from 1¢ in case 1, to 1 000 000 in suitcase 26. Then it should be easier for you to spot any programming error.
 
 As a guideline, I added two output examples: 
-![OutputExamples](/Examples/output in Debug Modus without errors and ending of user/Image 2.png)
+### Example 1: output in Debug Modus without errors and ending of user
+![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%202.png)
 
+![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%203.png)
+
+### Example 2: output with errors
+![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20with%20errors/Image%204.png)
 Your output doesn’t have to match exactly 100 percent, you can also be creative. If you have any questions, don’t hesitate to ask. I think it’s a great game to implement in Java. Have fun with programming and playing the game😊
