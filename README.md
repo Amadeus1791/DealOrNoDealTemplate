@@ -103,10 +103,14 @@ At the beginning of the game, the user should be asked if the wants to start the
 
 As a guideline, I added two output examples: 
 ### Example 1: output in Debug Modus without errors and ending of user
-![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%202.png)
+![OutputExamples without errors_1](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%202.png)
 
-![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%203.png)
+![OutputExamples without errors_2](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/Image%203.png)
 
 ### Example 2: output with errors
-![OutputExamples](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20with%20errors/Image%204.png)
+![OutputExamples with errors](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20with%20errors/Image%204.png)
 Your output doesn’t have to match exactly 100 percent, you can also be creative. If you have any questions, don’t hesitate to ask. I think it’s a great game to implement in Java. Have fun with programming and playing the game😊
+
+### Examples as txt
+[OutputExamples without errors](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20in%20Debug%20Modus%20without%20errors%20and%20ending%20of%20user/output%20in%20Debug%20Modus%20without%20errors.txt)
+[OutputExamples with errors](https://github.com/Amadeus1791/DealOrNoDealTemplate/blob/main/Examples/output%20with%20errors/output%20with%20errors.txt)
