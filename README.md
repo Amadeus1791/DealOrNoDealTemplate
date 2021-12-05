@@ -1,6 +1,6 @@
 ﻿# Deal or No Deal
 
-**Deadline: 22.Dez 2021**
+**Deadline: 22.Dez 2021 23:00**
 
 Write a Java program that implements the logic of the TV show 'Deal or No Deal' as an interactive game.
 
