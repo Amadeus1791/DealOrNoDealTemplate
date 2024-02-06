@@ -95,7 +95,7 @@ In case of a wrong input, the user should be notified and can retry.
 
 ## Java Implementation:
 
-For this assignment, there is no template you have to follow. You are free to use any class and data structure which works best for you. But don’t forget to separate the logic in different classes and methods and keep the main method small.
+For this assignment, there is no strict template you have to follow. Although there are many different data structures you can choose, please make use a HashMap. Of course, if this solution works you can also try other data structures (such as ArrayList). Also, don’t forget to separate the logic in different classes and methods and keep the main method small.
 
 ## Debugging:
 
